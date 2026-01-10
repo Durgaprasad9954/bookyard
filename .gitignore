@@ -71,3 +71,6 @@ desktop.ini
 # Keep PDFs as they are part of the project specification
 # !Bookyard_API_Documentation.pdf
 # !Project proposal.pdf
+
+# === Supabase Migrations ===
+backend/supabase/migrations/
